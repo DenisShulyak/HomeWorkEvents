@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\HWRace\HWRace\obj\Debug\HWRace.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HWRace\HWRace\obj\Debug\HWRace.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HWRace\HWRace\bin\Debug\HWRace.exe.config
+C:\Users\User\source\repos\HWRace\HWRace\bin\Debug\HWRace.exe
+C:\Users\User\source\repos\HWRace\HWRace\bin\Debug\HWRace.pdb
+C:\Users\User\source\repos\HWRace\HWRace\obj\Debug\HWRace.exe
+C:\Users\User\source\repos\HWRace\HWRace\obj\Debug\HWRace.pdb
